@@ -4,7 +4,7 @@
 		module="hella-scala$sbt_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20140528171855"
+		publication="20140528184218"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>
