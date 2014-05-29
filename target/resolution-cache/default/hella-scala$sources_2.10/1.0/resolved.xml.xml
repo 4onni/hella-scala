@@ -4,7 +4,7 @@
 		module="hella-scala$sources_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20140528184220"
+		publication="20140529172732"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>
